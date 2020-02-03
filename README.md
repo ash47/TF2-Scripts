@@ -25,6 +25,12 @@
    - `8` - Sniper
    - `9` - Spy
 
+### fast_switch_on
+ - This turns fast weapon switching `on`
+
+### fast_switch_off
+ - This turns fast weapon switching `off`
+
 #### Pro tips:
  - If you disguise as something like a medic, you can change guns and then disguise again, you will select what ever weapon slot matches with the disguise
  - For medic, select the sapper, redisguise and you will have the medic gun out, so much less sus
