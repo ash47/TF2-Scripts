@@ -12,7 +12,9 @@
  - `Midde Click` - Regular attack with no auto disguise
  - `Right click` - Cloak / Dead Ringer
  - `Mouse4` - Get the sapper out and use it as long as you're holding the key, then put it away and get your old weapon out if you let go
+ - `Mouse5` - Select the sapper for some reason but don't use it
  - `R` - Drop all disguises
+ - `q` - Once disguised, causes you to rapid change weapons with your dusguise on, will always return to the weapon you had selected
  - `1-9` - Put a ENEMY disguise of a given class on based on the number
  - `shift + 1-9` - Put a FRIENDLY disguise of a given class on based on the number
    - `1` - Scout
