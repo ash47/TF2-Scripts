@@ -3,6 +3,12 @@
 ### What is this?
  - This is essentially a backup of my key bindings for TF2
 
+### Voting Commands
+ - Sometimes the UI messes up and no one can vote, you can vote and get free choice of map via the following commands:
+ - `next_map_vote 0` Vote for the first option
+ - `next_map_vote 1` Vote for the second option
+ - `next_map_vote 2` Vote for the third option
+
 ### Configs
 
 #### Spy2.cfg
